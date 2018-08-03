@@ -18,7 +18,7 @@ textarea{
 }
 input{
 	font-family: Georgia;
-		background-color: seagreen;
+		background-color: darkgrey;
 		border:3px solid darkgreen;
 		border-radius: 4px;
 	}
@@ -35,7 +35,7 @@ select{
 	background-image: url(paper.jpg);
 }
 .df{
-	background-color: darkslategray;
+	background-color: seagreen;
 	border: 3px solid aquamarine;
 	border-radius: 7px
 
