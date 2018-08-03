@@ -43,7 +43,7 @@ select{
 .content{
 	width: auto;
 	border: 3px solid darkmagenta;
-	background-color: darkorchid;
+	background-color: gainsboro;
 	border-radius: 6px
 }
 .content__button{
