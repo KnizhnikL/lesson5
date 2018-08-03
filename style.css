@@ -35,8 +35,8 @@ select{
 	background-image: url(paper.jpg);
 }
 .df{
-
-	border: 3px solid aquamarine;
+	background-color: darkcyan;
+	border: 3px solid darkblue;
 	border-radius: 7px
 
 }
