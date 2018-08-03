@@ -1,0 +1,58 @@
+p{
+	font-family: Georgia;
+}
+li{
+	font-family: Georgia;
+}
+legend{
+	font-family: Georgia;
+	}
+label{
+	font-family: Georgia;
+	}
+textarea{
+	font-family: Georgia;
+	background-color: darkgrey;
+	border: 3px solid darkgreen;
+	border-radius: 4px;
+}
+input{
+	font-family: Georgia;
+		background-color: darkgrey;
+		border:3px solid darkgreen;
+		border-radius: 4px;
+	}
+select{
+	font-family: Georgia;
+	background-color: darkgrey;
+	border: 3px solid darkgreen;
+	border-radius: 4px;
+}
+.body{
+	background-image: url(background.jpeg);
+}
+.art{
+	background-image: url(paper.jpg);
+}
+.df{
+	background-color: lime;
+	border: 3px solid aquamarine;
+	border-radius: 7px
+
+}
+.content{
+	width: auto;
+	border: 3px solid red;
+	background-color: aliceblue;
+	border-radius: 6px
+}
+.content__button{
+	padding: 10px 15px;
+	border-radius: 40px;
+}
+.content__button.content__button--ok{
+background-color: green
+}
+.content__button.content__button--cancel{
+background-color: red
+}
