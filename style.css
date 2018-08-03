@@ -42,8 +42,8 @@ select{
 }
 .content{
 	width: auto;
-	border: 3px solid red;
-	background-color: orangered;
+	border: 3px solid darkmagenta;
+	background-color: darkorchid;
 	border-radius: 6px
 }
 .content__button{
