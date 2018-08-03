@@ -43,7 +43,7 @@ select{
 .content{
 	width: auto;
 	border: 3px solid red;
-	background-color: aliceblue;
+	background-color: orangered;
 	border-radius: 6px
 }
 .content__button{
